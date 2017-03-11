@@ -1,0 +1,26 @@
+This is for Button Coding Challenge
+
+Data Intern Challenge: https://www.usebutton.com/developers/intern-data-challenge/
+
+## The Challenge
+
+''' The challenge is to write a function to determine the expected value of the following game before drawing the first card. The function can be written in any language of your choice.
+
+Rules of the game
+- You have a standard deck of 52 cards facing down
+- You can only draw one card at a time
+- For each black card you draw, you earn $1
+- For each red card you draw, you lose $1
+- You may choose to stop drawing cards at any time and walk away with your cumulative winnings
+Please include documentation about how to run your code and how you reached your solution.
+
+'''
+
+## Optional Portion
+
+''' Given that you have X cards in hand, of which Y are black, write a function/algorithm to determine:
+
+- The current expected value of the game
+- Whether or not you would continue drawing cards
+
+'''
